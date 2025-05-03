@@ -1,0 +1,5 @@
+Flask
+pandas
+xgboost
+numpy
+scikit-learn
