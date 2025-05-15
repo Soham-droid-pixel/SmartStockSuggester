@@ -4,3 +4,4 @@ xgboost
 numpy
 scikit-learn
 streamlit
+requests
